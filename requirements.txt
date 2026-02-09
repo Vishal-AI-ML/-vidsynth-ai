@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+youtube-transcript-api==1.2.2
+langchain
+langchain-google-genai
+langchain-chroma
+python-dotenv
+langchain_community
+sentence-transformers
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+pydantic==2.6.1
+python-multipart==0.0.9
